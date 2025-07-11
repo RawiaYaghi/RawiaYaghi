@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rawia Yaghi
 
-🎓 Software Engineering Student at the University of Palestine  
+🎓 Software Engineering Graduate  
 💻 Asp.NET Core Developer | Full-stack Enthusiast  
 🌍 Based in Gaza, Palestine  
 📫 Contact me: raw.yaghi@gmail.com
@@ -25,6 +25,12 @@
 - **Trust Angle** – Appointment Booking System (July–Sept 2022)  
 - **Developers Plus** – Web Maintenance & UI design (2021)  
 - **UNRWA HQG** – Attendance System (2022)  
+
+---
+### 🎓 Education
+- **BSc in Software Engineering** – University of Palestine, 2025  
+- **Diploma in Programming & Databases** – UNRWA Gaza Training College, 2022  
+- **High School – Scientific Stream** – GPA: 95.9%
 
 ---
 
