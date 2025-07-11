@@ -48,9 +48,10 @@
 - Youth Representative – UNRWA High-Level Digitalization Panel  
 
 ---
+### 🌐 Connect with Me
 
-### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/rawia-yaghi)
-[📱 WhatsApp](https://wa.me/970592783926) 
-[✉️ Email](mailto:raw.yaghi@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rawia-yaghi)
+- 🖥️ [GitHub](https://github.com/ranaYaghi)
+- 📱 [WhatsApp](https://wa.me/970592783926)
+- ✉️ [Email](mailto:raw.yaghi@gmail.com)
 
